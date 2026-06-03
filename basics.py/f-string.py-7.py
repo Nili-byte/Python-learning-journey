@@ -16,3 +16,9 @@ print(f"hello guys i'm learning {p} and its {c}")
 m=0.78668
 print(f"{m:.3f}")
 
+
+
+
+num = 3.141592
+print(f"{num:.2f}")
+
