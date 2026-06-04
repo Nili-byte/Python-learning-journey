@@ -50,14 +50,14 @@ d = {9,10,11,12,13,14,3,2}
 r = {1}
 z = {9}
 
-print(p.difference(d))
+# print(p.difference(d))
 
-print(r.issubset(p)) # both are opposite
-print(p.issuperset(r))
+# print(r.issubset(p)) # both are opposite
+# print(p.issuperset(r))
 
 
 
-print(p.symmetric_difference(z))
+
 
 
 
