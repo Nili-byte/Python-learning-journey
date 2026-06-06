@@ -1,3 +1,9 @@
+
+#Student Report Card System - Project 1
+
+
+
+
 def validmarks(sub):
     while True:
         mark=int(input(f"Enter your {sub} mark (0-100): "))
@@ -79,6 +85,7 @@ while True:
 
 
     #THE STUDENT REPORT CARD SYSTEM GENERATER
+    print("Thankyou for using")
    
 
 
