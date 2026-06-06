@@ -28,3 +28,4 @@ def sothing (x,y):
 
 
 sothing(3,4)
+print("hello world")

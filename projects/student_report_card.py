@@ -75,6 +75,10 @@ while True:
     ans = input("Add another(yes/no)")
     if(ans == "no"):
         break
+
+
+
+    #THE STUDENT REPORT CARD SYSTEM GENERATER
    
 
 
