@@ -4,7 +4,6 @@ def hello():
     
     global a
     a = 16
-    a = 90
     b = 9  # both 4-5 lines are local variable can be only use in function
     print(a)
 

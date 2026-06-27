@@ -46,7 +46,7 @@ with open("example.txt") as t:
      apple=t.read(5) #this just reads ahead of 5
      print(t.tell())
      print(apple)
-     print(t.truncate(32))
+     
 
 
 
