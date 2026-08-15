@@ -56,6 +56,7 @@ while True:
             msg.append(anew)
 
         print(" ".join(msg))
+        break
     
  
  elif(choice==0):
