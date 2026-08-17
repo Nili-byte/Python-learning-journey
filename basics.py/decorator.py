@@ -17,10 +17,24 @@ def grind():
 grind()
 
 
+def start(func):
+    def wrap():
+        print("Salam")
+        func()
+        print("walekum salam")
+
+    return wrap
 
 
 
 
+
+@start
+def f():
+    print("wassup")
+
+
+f()
 
 
 
