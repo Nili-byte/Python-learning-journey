@@ -69,3 +69,8 @@ print(apt3._type,apt3.apt_avaible,apt3.amenities_pre,apt3.price)
 
 print("apt_vacant =",palace.apt_avaible)
 
+
+
+
+# inhentirance is not that hard and its easy to remeber so i didn't code i just wotched the therory
+
