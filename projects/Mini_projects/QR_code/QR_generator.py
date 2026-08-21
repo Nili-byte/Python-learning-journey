@@ -50,6 +50,7 @@ else:
 print(" ")
 
 print("The QRcode is been sucessfully generated and has been as",nff)
+#BYE
 
   
    
