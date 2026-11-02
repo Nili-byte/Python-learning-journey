@@ -1,6 +1,6 @@
 # Python Learning Journey 🐍
 
-> Self-teaching Python from scratch with the goal of building AI/DS at TSDCEM systems, automation tools, and Telegram bots.
+> Self-teaching Python from scratch with the goal of building AI/DS at TSDCEM , Trying to learn systems, automation tools, and Telegram bots.
 
 **Started:** May 22, 2026  |  **Course:** CodeWithHarry — 100 Days of Python  |  **Status:** 🟢 Active
 
