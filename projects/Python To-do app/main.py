@@ -1,11 +1,13 @@
 print("------------Welcome to To-Do-App-------------")
 tasks = []
 def menu():
+    print("-"*15)
     print("1. Add Task")
     print("2. view Task")
     print("3. Mark Task as Completed")
     print("4. Delete Task")
     print("5. Exit")
+    print("-"*15)
 
 def add_task():
    taski = input("Enter a task to add : ")
@@ -29,8 +31,8 @@ def mark_task():
         return
     else:
         view_task()
-        inn = int(input("Enter the task number to mark as completed")) - 1
-        if 0<inn>=len(tasks):
+        inn = int(input("Enter the task number to mark as complete : ")) - 1
+        if 0<=inn<=len(tasks):
          tasks[inn]["done"]=True
          print("Task marked as completed sucessfully!")
         else:   
